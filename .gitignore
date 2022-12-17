@@ -1,0 +1,26 @@
+# IDE
+.buildpath
+.project
+.settings
+.externalToolBuilders
+.idea
+.vscode
+
+# Node.js
+node_modules
+
+# Js files
+/js/manifest.json
+
+# Log files
+/logs/*
+
+# Uploaded files
+/uploaded/*
+
+# Keep folders that are needed
+!.gitkeep
+
+# macOS
+.DS_Store
+
